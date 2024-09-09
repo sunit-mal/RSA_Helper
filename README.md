@@ -71,7 +71,7 @@
 2. **Run the Application**:
    - Execute the main Python script to launch the `RSA Viewer`:
      ```bash
-     python main.py
+     python MainWindow.py
      ```
 
 3. **Using the Application**:
