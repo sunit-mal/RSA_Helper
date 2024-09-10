@@ -8,6 +8,15 @@
 `RSA Viewer` is a PyQt5-based application designed to simplify the visualization and handling of RSA keys. It provides an intuitive UI to manage key files, perform encryption and decryption, and explore different encryption algorithms. The application supports both `.key` and `.enc` file formats, offering drag-and-drop functionality for enhanced user experience.
 
 ---
+### Preview
+
+![Screenshot 2024-09-10 101025](https://github.com/user-attachments/assets/f49cdaaa-f625-4b1e-9b0c-34b98815cbc1)
+![Screenshot 2024-09-10 101045](https://github.com/user-attachments/assets/3084ad1d-c16b-44dd-8b06-9dccdd825aa4)
+![Screenshot 2024-09-10 101104](https://github.com/user-attachments/assets/7c74f4cf-3bc1-4949-85d5-7f885a292b64)
+![Screenshot 2024-09-10 101116](https://github.com/user-attachments/assets/03653917-71ce-4cce-b7cd-94cb5e39f0bc)
+![Screenshot 2024-09-10 101131](https://github.com/user-attachments/assets/c00e8f1d-d2b0-4b2d-af01-526c9d2a6884)
+
+---
 
 ### Features
 
