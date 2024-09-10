@@ -89,12 +89,6 @@
 
 ---
 
-### Screenshots
-
-*Include some screenshots of the application here for better visual understanding.*
-
----
-
 ### Future Enhancements
 
 - **More Encryption Algorithms**: Support for additional encryption algorithms like AES and DES.
